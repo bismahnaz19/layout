@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.main{
+    background-color: rgb(206, 206, 206);
+    border: 1px solid black;    
+    height: 69vh;
+    width: 60%;
+    margin: 100px auto;
+    padding: 10px 10px;
+    border-width:thick;  
+    display:block;  
+}
+.bannar{
+    border: 1px solid black;  
+    width: 100%;
+    height: 8vh;
+    text-align:center;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size:30px;
+    margin-bottom: 10px;
+    float: top;
+    border-width: 3px; 
+    display:block;
+}
+.navigationlink{
+    border: 1px solid black;  
+    width: 100%;
+    height: 8vh;
+    text-align:center;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size:30px;
+    margin-bottom: 5px;
+    float: top;
+    border-width: 3px; 
+    display:block;
+}
+.maincontent{
+    border: 1px solid black;  
+    width: 55%;
+    height: 40vh;
+    text-align:center;
+    box-sizing: border-box;
+    padding: 20px;
+    font-size:30px;
+    float:left;
+    padding-top: 100px;
+    border-width: 3px;
+    display:block; 
+    margin-top: 3px;
+}
+.picture{
+    border: 1px solid black;  
+    width: 14%;
+    height: 20vh;
+    text-align:center;
+    box-sizing: border-box;
+    padding: 30px 10px;
+    font-size:30px;
+    float:left;
+    margin: 3px 8px;
+    border-width: 3px; 
+    display:block;
+}
+.about{
+    border: 1px solid black;  
+    width: 29%;
+    height: 20vh;
+    text-align:center;
+    box-sizing: border-box;
+    padding-top: 20px;
+    font-size:30px;
+    float:left;
+    margin-left:575px;
+    margin-top: -243px ;
+    border-width: 3px; 
+    display:block;
+    
+}
+.recent{
+    border: 1px solid black;  
+    width: 44%;
+    height: 19vh;
+    text-align:center;
+    box-sizing: border-box;
+    padding-top: 30px;
+    font-size:30px;
+    float:left;
+    margin-left:455px;
+    margin-top: -115px ;
+    border-width: 3px; 
+    display:block;
+}
+.footer{
+    border: 1px solid black;  
+    width: 100%;
+    height: 10h;
+    text-align:center;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size:30px;
+    margin-bottom: 5px;
+    margin-top: 260px ;
+    clear: both;
+    border-width: 3px;
+    display:block; 
+  
+}
